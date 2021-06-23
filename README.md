@@ -1,4 +1,6 @@
 ## Hi 👋 I'm Mitchel Pawirodinomo 🧙‍♂️
+![](https://komarev.com/ghpvc/?username=pawiromitchel)
+
 I'm a tech enthusiast and I'm obsessed with automation.   
 Love building tools 🔨 and bots 🤖 just to make my life easier
 
